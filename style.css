@@ -48,23 +48,5 @@
     }
   }
 
- #1 {
-
-width: 400px;  
-height: 150px;  
-border: 5px solid red;  
-background-color: lightgreen;  
-object-fit: none;  
-object-position: left top;  	
-  }
-
-#2 {
-	width: 400px;  
-height: 150px;  
-border: 5px solid red;  
-background-color: lightgreen;  
-object-fit: none;  
-object-position: right top;  
-  }
 
 
